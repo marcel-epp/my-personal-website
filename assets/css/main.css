@@ -60,6 +60,11 @@ a:hover {
   display: block;
 }
 
+.socialimg:hover {
+  rotate: -10deg;
+  transition-duration: 1s;
+}
+
 /* body */
 
 body {
